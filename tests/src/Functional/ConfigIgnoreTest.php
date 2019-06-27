@@ -61,7 +61,7 @@ class ConfigIgnoreTest extends ConfigIgnoreBrowserTestBase {
   }
 
   /**
-   * Verify that the settings form works.
+   * Verify that ignore works.
    */
   public function testIgnoreCollection() {
     $this->resetAll();
